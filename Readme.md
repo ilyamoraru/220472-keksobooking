@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Илья Морару](https://up.htmlacademy.ru/javascript/15/user/220472).
-* Наставник: Дмитрий Русаков.
+* Наставник: [Дмитрий Русаков](https://htmlacademy.ru/profile/id6302).
 
 ---
 
